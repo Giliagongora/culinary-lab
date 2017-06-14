@@ -1,0 +1,22 @@
+.row {
+    margin-right: 0px;
+    margin-left: -15px;
+}
+/* section-one */
+.nav li a img {
+  max-width: 90%;
+}
+#img-logotipo{
+	height: 10%;
+	width: auto;
+}
+
+/* section-two */
+.section-two{
+	background-image: url(../img/bg-header.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* section-three */

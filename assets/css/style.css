@@ -17,6 +17,67 @@
 	height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+/*  background-attachment: fixed; */
 }
 
 /* section-three */
+.section-three{
+	height: 500px;
+	background-color: white;
+}
+/* section-four */
+.section-four{
+	background-image: url(../img/bg-quote.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+/*  background-attachment: fixed; */
+}
+.section-four{
+	height: 800px;
+}
+/* section-five */
+.section-five{
+	height: 400px;
+	background-color: #dbdbdb;
+}
+/* section-six */
+.section-six{
+	height: 400px;
+	background-color: white;
+}
+
+/* section-seven */
+.section-seven{
+	height: 200px;
+	background-color: #1f1d1f;
+}
+
+/* section-eight */
+.section-eight{
+	background-image: url(../img/menu_2.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section-eight{
+	height: 900px;
+}
+
+/* section-nine */
+.section-nine{
+	height: 600px;
+	background-color: white;
+}
+
+
+/* section-ten */
+.section-ten{
+	background-image: url(../img/bg-footer.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section-ten{
+	height: 600px;
+}

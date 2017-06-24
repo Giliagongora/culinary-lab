@@ -304,11 +304,43 @@ a.left.carousel-control, a.right.carousel-control{
 .section-ten{
 	height: 600px;
 }
+.row{
+	margin: 0px;
+	padding: 0px;
+}
 #row2{
 	padding-right: 0px;
 }
 .section-ten .up{
 	height: 120px;
 	width: 100%;
-	background-color: gray;
+	background-color: #1f1d1f;
+}
+.up{
+	font-size: 200%;
+	color: white;
+	padding-top: 3%;
+}
+.section-ten h1{
+	font-weight: bold;
+	font-size: 200%;
+	color: white;
+}
+.section-ten h3{
+	font-size: 150%;
+	color: white;
+}
+.section-ten .fa{
+	border: none;
+	font-size: 100%;
+	margin-left: 0px;
+	color: white;
+}
+#redes{
+	padding-top: 5%;
+	font-size: 180%;
+}
+.section-ten #pieTexto{
+	padding-top: 15%;
+	color: white;
 }

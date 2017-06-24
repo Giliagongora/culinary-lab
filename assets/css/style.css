@@ -30,14 +30,16 @@ body{
 	height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 5%;
 /*  background-attachment: fixed; */
 }
 .section-two{
 	height: 800px;
+	padding-top: 5%;
 }
 
 #logo-central{
-	padding-top: 13%;
+	padding-top: 11%;
 }
 .flecha{
 	color: white;
@@ -46,6 +48,7 @@ body{
     margin-left: 47%;
     margin-top: 8%;
     padding: 2%;
+   
 }
 
 /* section-three */
@@ -175,6 +178,9 @@ body{
 	background-color: transparent;
 	border: none;
 }
+a.left.carousel-control, a.right.carousel-control{
+ background-image:none;
+}
 
 
 
@@ -273,7 +279,7 @@ body{
 
 /* section-nine */
 .section-nine{
-	height: 600px;
+	height: 100%;
 	background-color: white;
 
 }
